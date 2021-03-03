@@ -1,5 +1,5 @@
 # Sample-landing-page
-sample landing page using bootstrap 4
+Sample blog page using bootstrap 4
 
 ### Stack
 - Only bootstrap
